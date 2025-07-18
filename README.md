@@ -1,2 +1,2 @@
 # Codes
-Plottinf
+Plotting
